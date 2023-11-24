@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@400;700&family=Poppins:wght@400;700;900&display=swap');
+
+/* Regole strutturali */
+
+body{
+    width: 100vw;
+    margin-top: 0;
+    line-height: 1.65em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 2em;
+    line-height: 1.5em;
+}
+
+.black{
+    width: 100%;
+    background-color: black;
+    height: 8vh;
+}
+.black img{
+    width: 120px;
+    margin: 20px;
+}
+
+#one{
+    background-image: url(../Esercizio/images/banner.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding-top: 10%;
+}
+.first h1{
+    font-family: 'Open Sans', sans-serif;
+    color: #25a2c3 ;
+    font-weight: 700;
+    font-size: 2em;
+    line-height: 1.65;
+}
+.first{
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.first p{
+    color: #393d41 ;
+    line-height: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+#partiamo{
+    width: 150px;
+    height: 40px;
+    border-color: #f04c2f ;
+    border-radius: 7px;
+    background-color: #f04c2f ;
+    color: white;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+}
+#second{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#notebook{
+    margin-top: 20px;
+    width: 25%;
+    border-radius: 50%;
+    margin-left: 100px;
+
+
+}
+h4{
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #25a2c3;
+    padding-top: 30px;
+    text-align: center;
+
+}
+#second p{
+    color: #393d41;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article{
+    /* margin-left: 30%; */
+    width: 40%;
+    display: inline-block;
+}
+#orange{
+    background-color: #e22d0e;
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+#orange h1{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+}
+#orange p{
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.citazione{
+    margin-top: 30px;
+    font-size: 1.5em;
+}
+
+blockquote p{
+    padding-top: 10px;
+}
+#other{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.square{
+    width: 30%;
+    display: inline-block;
+    padding-left: 10px;
+
+}
+.square img {
+    width: 100%;
+
+}
+.square p{
+    margin-top: 20px;
+    color: #393d41;
+    padding-bottom: 30px;
+}
+footer{
+    background-color: #25a2c3;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+}
+a{
+    color:#c8e7f0 ;
+}
+#contacts h1{
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+#diritti{
+    margin-top: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #c8e7f0;
+}
+#diritti p{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+i{
+    padding-right: 5px;
+}
